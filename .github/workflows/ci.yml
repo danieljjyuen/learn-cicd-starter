@@ -20,3 +20,4 @@ jobs:
 
       - name: Echo Go version
         run: go version
+
